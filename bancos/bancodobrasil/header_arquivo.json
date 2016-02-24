@@ -1,0 +1,187 @@
+{
+  "nome": "HeaderArquivo",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num",
+      "default": "0"
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 0
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 9,
+      "posicao_fim": 17,
+      "formato": "alfa",
+      "default": " "
+    },
+
+    {
+      "nome": "codigo_inscricao",
+      "posicao_inicio": 18,
+      "posicao_fim": 18,
+      "formato": "num"
+    },
+
+    {
+      "nome": "inscricao_numero",
+      "posicao_inicio": 19,
+      "posicao_fim": 32,
+      "formato": "num"
+    },
+
+    {
+      "nome": "codigo_convenio",
+      "posicao_inicio": 33,
+      "posicao_fim": 41,
+      "formato": "num"
+    },
+    {
+      "nome": "cobranca_cedente_bb",
+      "posicao_inicio": 42,
+      "posicao_fim": 45,
+      "formato": "num"
+
+    },
+    {
+      "nome": "carteira",
+      "posicao_inicio": 46,
+      "posicao_fim": 47,
+      "formato": "num"
+    },
+    {
+      "nome": "variacao_carteira",
+      "posicao_inicio": 48,
+      "posicao_fim": 50,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 51,
+      "posicao_fim": 52,
+      "formato": "alfa"
+    },
+    {
+      "nome": "agencia",
+      "posicao_inicio": 53,
+      "posicao_fim": 57,
+      "formato": "num"
+    },
+    {
+      "nome": "agencia_dv",
+      "posicao_inicio": 58,
+      "posicao_fim": 58,
+      "formato": "num"
+    },
+    {
+      "nome": "conta_corrente",
+      "posicao_inicio": 59,
+      "posicao_fim": 70,
+      "formato": "num",
+      "default":0
+    },
+    {
+      "nome": "conta_corrente_dv",
+      "posicao_inicio": 71,
+      "posicao_fim": 71,
+      "formato": "num"
+    },
+    {
+      "nome": "dv_agencia_conta",
+      "posicao_inicio": 72,
+      "posicao_fim": 72,
+      "formato": "alfa"
+    },
+    {
+      "nome": "nome_empresa",
+      "posicao_inicio": 73,
+      "posicao_fim": 102,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "nome_do_banco",
+      "posicao_inicio": 103,
+      "posicao_fim": 132,
+      "formato": "alfa",
+      "default": "BANCO DO BRASIL S.A."
+    },
+
+    {
+      "nome": "vazio3",
+      "posicao_inicio": 133,
+      "posicao_fim": 142,
+      "formato": "alfa",
+      "default": ""
+    },
+
+    {
+      "nome": "codigo_remessa",
+      "posicao_inicio": 143,
+      "posicao_fim": 143,
+      "formato": "num",
+      "default": 1
+    },
+
+    {
+      "nome": "data_geracao",
+      "posicao_inicio": 144,
+      "posicao_fim": 151,
+      "formato": "num"
+    },
+
+    {
+      "nome": "hora_geracao",
+      "posicao_inicio": 152,
+      "posicao_fim": 157,
+      "formato": "num"
+    },
+
+    {
+      "nome": "arquivo_sequencia",
+      "posicao_inicio": 158,
+      "posicao_fim": 163,
+      "formato": "num"
+    },
+
+    {
+      "nome": "versao_layout",
+      "posicao_inicio": 164,
+      "posicao_fim": 166,
+      "formato": "num",
+      "default": "080"
+    },
+
+    {
+      "nome": "densidade",
+      "posicao_inicio": 167,
+      "posicao_fim": 171,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio4",
+      "posicao_inicio": 172,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}

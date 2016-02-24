@@ -1,0 +1,156 @@
+{
+  "nome": "SegmentoR",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num"
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 3
+    },
+
+    {
+      "nome": "numero_sequencial",
+      "posicao_inicio": 9,
+      "posicao_fim": 13,
+      "formato": "num"
+    },
+
+    {
+      "nome": "codigo_segmento",
+      "posicao_inicio": 14,
+      "posicao_fim": 14,
+      "formato": "alfa",
+      "default":"R"
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 15,
+      "posicao_fim": 15,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "codigo_ocorrencia",
+      "posicao_inicio": 16,
+      "posicao_fim": 17,
+      "formato": "num",
+      "default":"01"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 18,
+      "posicao_fim": 65,
+      "formato": "num"
+    },
+    {
+      "nome": "codigo_multa",
+      "posicao_inicio": 66,
+      "posicao_fim": 66,
+      "formato": "num"
+
+    },
+    {
+      "nome": "data_multa",
+      "posicao_inicio": 67,
+      "posicao_fim": 74,
+      "formato": "num"
+    },
+    {
+      "nome": "valor_multa",
+      "posicao_inicio": 75,
+      "posicao_fim": 89,
+      "formato": "num"
+    },
+    {
+      "nome": "informacao_sacado",
+      "posicao_inicio": 90,
+      "posicao_fim": 99,
+      "formato": "alfa"
+    },
+    {
+      "nome": "mensagem1",
+      "posicao_inicio": 100,
+      "posicao_fim": 139,
+      "formato": "alfa"
+    },
+    {
+      "nome": "mensagem2",
+      "posicao_inicio": 240,
+      "posicao_fim": 179,
+      "formato": "alfa"
+    },
+    {
+      "nome": "vazio3",
+      "posicao_inicio": 180,
+      "posicao_fim": 199,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "vazio4",
+      "posicao_inicio": 200,
+      "posicao_fim": 207,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio5",
+      "posicao_inicio": 208,
+      "posicao_fim": 210,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio6",
+      "posicao_inicio": 216,
+      "posicao_fim": 216,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "vazio7",
+      "posicao_inicio": 217,
+      "posicao_fim": 228,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio8",
+      "posicao_inicio": 229,
+      "posicao_fim": 230,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "vazio9",
+      "posicao_inicio": 231,
+      "posicao_fim": 231,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio10",
+      "posicao_inicio": 232,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}

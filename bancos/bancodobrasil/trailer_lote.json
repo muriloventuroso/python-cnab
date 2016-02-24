@@ -1,0 +1,55 @@
+{
+  "nome": "TrailerLote",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num"
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 5
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 9,
+      "posicao_fim": 17,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "qtde_registros_lote",
+      "posicao_inicio": 18,
+      "posicao_fim": 23,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 24,
+      "posicao_fim": 115,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio3",
+      "posicao_inicio": 116,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}

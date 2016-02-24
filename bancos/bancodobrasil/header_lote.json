@@ -1,0 +1,194 @@
+{
+  "nome": "HeaderLote",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num",
+      "default": "0"
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 1
+    },
+
+    {
+      "nome": "tipo_operacao",
+      "posicao_inicio": 9,
+      "posicao_fim": 9,
+      "formato": "alfa",
+      "default": "R"
+    },
+
+    {
+      "nome": "tipo_servico",
+      "posicao_inicio": 10,
+      "posicao_fim": 11,
+      "formato": "alfa",
+      "default":"01"
+    },
+
+    {
+      "nome": "forma_lancamento",
+      "posicao_inicio": 12,
+      "posicao_fim": 13,
+      "formato": "num",
+      "default":"00"
+    },
+
+    {
+      "nome": "versao_layout",
+      "posicao_inicio": 14,
+      "posicao_fim": 16,
+      "formato": "num",
+      "default":" "
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 17,
+      "posicao_fim": 17,
+      "formato": "alfa",
+      "default": " "
+    },
+    {
+      "nome": "codigo_inscricao",
+      "posicao_inicio": 18,
+      "posicao_fim": 18,
+      "formato": "num"
+
+    },
+    {
+      "nome": "numero_inscricao",
+      "posicao_inicio": 19,
+      "posicao_fim": 33,
+      "formato": "num"
+    },
+    {
+      "nome": "codigo_convenio",
+      "posicao_inicio": 34,
+      "posicao_fim": 42,
+      "formato": "num"
+    },
+    {
+      "nome": "cobranca_cedente_bb",
+      "posicao_inicio": 43,
+      "posicao_fim": 46,
+      "formato": "num"
+    },
+    {
+      "nome": "carteira",
+      "posicao_inicio": 47,
+      "posicao_fim": 48,
+      "formato": "num"
+    },
+    {
+      "nome": "variacao_carteira",
+      "posicao_inicio": 49,
+      "posicao_fim": 51,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 52,
+      "posicao_fim": 53,
+      "formato": "alfa"
+    },
+    {
+      "nome": "agencia",
+      "posicao_inicio": 54,
+      "posicao_fim": 58,
+      "formato": "num"
+    },
+    {
+      "nome": "agencia_dv",
+      "posicao_inicio": 59,
+      "posicao_fim": 59,
+      "formato": "num"
+    },
+    {
+      "nome": "conta_corrente",
+      "posicao_inicio": 60,
+      "posicao_fim": 71,
+      "formato": "num"
+    },
+
+    {
+      "nome": "conta_corrente_dv",
+      "posicao_inicio": 72,
+      "posicao_fim": 72,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 73,
+      "posicao_fim": 73,
+      "formato": "num",
+      "default": "0"
+    },
+
+    {
+      "nome": "nome_empresa",
+      "posicao_inicio": 74,
+      "posicao_fim": 103,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "mensagem1",
+      "posicao_inicio": 104,
+      "posicao_fim": 143,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "mensagem2",
+      "posicao_inicio": 144,
+      "posicao_fim": 183,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "arquivo_sequencia",
+      "posicao_inicio": 184,
+      "posicao_fim": 191,
+      "formato": "num"
+    },
+
+    {
+      "nome": "data_geracao",
+      "posicao_inicio": 192,
+      "posicao_fim": 199,
+      "formato": "num"
+    },
+
+    {
+      "nome": "data_credito",
+      "posicao_inicio": 200,
+      "posicao_fim": 207,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio3",
+      "posicao_inicio": 208,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}

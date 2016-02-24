@@ -1,0 +1,204 @@
+{
+  "nome": "SegmentoT",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num"
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 3
+    },
+
+    {
+      "nome": "numero_sequencial",
+      "posicao_inicio": 9,
+      "posicao_fim": 13,
+      "formato": "num"
+    },
+
+    {
+      "nome": "codigo_segmento",
+      "posicao_inicio": 14,
+      "posicao_fim": 14,
+      "formato": "alfa",
+      "default":"T"
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 15,
+      "posicao_fim": 15,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "codigo_retorno",
+      "posicao_inicio": 16,
+      "posicao_fim": 17,
+      "formato": "num"
+    },
+
+    {
+      "nome": "agencia_conta",
+      "posicao_inicio": 18,
+      "posicao_fim": 22,
+      "formato": "num"
+    },
+    {
+      "nome": "dv_agencia",
+      "posicao_inicio": 23,
+      "posicao_fim": 23,
+      "formato": "num"
+
+    },
+    {
+      "nome": "conta_corrente",
+      "posicao_inicio": 24,
+      "posicao_fim": 35,
+      "formato": "num"
+    },
+    {
+      "nome": "dv_conta_corrente",
+      "posicao_inicio": 36,
+      "posicao_fim": 36,
+      "formato": "num"
+    },
+    {
+      "nome": "dv_agencia_conta",
+      "posicao_inicio": 37,
+      "posicao_fim": 37,
+      "formato": "num"
+    },
+    {
+      "nome": "id_titulo",
+      "posicao_inicio": 38,
+      "posicao_fim": 57,
+      "formato": "alfa"
+    },
+    {
+      "nome": "carteira",
+      "posicao_inicio": 58,
+      "posicao_fim": 58,
+      "formato": "num"
+    },
+    {
+      "nome": "numero_documento",
+      "posicao_inicio": 59,
+      "posicao_fim": 73,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "data_vencimento",
+      "posicao_inicio": 74,
+      "posicao_fim": 81,
+      "formato": "num"
+    },
+
+    {
+      "nome": "valor_titulo",
+      "posicao_inicio": 82,
+      "posicao_fim": 96,
+      "formato": "num"
+    },
+
+    {
+      "nome": "numero_banco",
+      "posicao_inicio": 97,
+      "posicao_fim": 99,
+      "formato": "num"
+    },
+
+    {
+      "nome": "agencia_recebedora",
+      "posicao_inicio": 100,
+      "posicao_fim": 104,
+      "formato": "num"
+    },
+
+    {
+      "nome": "dv_agencia_recebedora",
+      "posicao_inicio": 105,
+      "posicao_fim": 105,
+      "formato": "num"
+    },
+
+    {
+      "nome": "identificacao_titulo_empresa",
+      "posicao_inicio": 106,
+      "posicao_fim": 130,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "codigo_moeda",
+      "posicao_inicio": 131,
+      "posicao_fim": 132,
+      "formato": "num"
+    },
+
+    {
+      "nome": "tipo_inscricao",
+      "posicao_inicio": 133,
+      "posicao_fim": 133,
+      "formato": "num"
+    },
+
+    {
+      "nome": "numero_inscricao",
+      "posicao_inicio": 134,
+      "posicao_fim": 148,
+      "formato": "num"
+    },
+
+    {
+      "nome": "nome",
+      "posicao_inicio": 149,
+      "posicao_fim": 188,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "numero_controle",
+      "posicao_inicio": 189,
+      "posicao_fim": 198,
+      "formato": "num"
+    },
+
+    {
+      "nome": "valor_tarifa",
+      "posicao_inicio": 199,
+      "posicao_fim": 213,
+      "formato": "num"
+    },
+
+    {
+      "nome": "identificacao_rejeicoes",
+      "posicao_inicio": 214,
+      "posicao_fim": 223,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 224,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}

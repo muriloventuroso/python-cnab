@@ -1,0 +1,63 @@
+{
+  "nome": "TrailerArquivo",
+  "campos": [
+    {
+      "nome": "codigo_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": "001"
+    },
+
+    {
+      "nome": "lote_servico",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num",
+      "default":9999
+    },
+
+    {
+      "nome": "tipo_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 9
+    },
+
+    {
+      "nome": "vazio1",
+      "posicao_inicio": 9,
+      "posicao_fim": 17,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "qtde_lotes",
+      "posicao_inicio": 18,
+      "posicao_fim": 23,
+      "formato": "num"
+    },
+
+    {
+      "nome": "qtde_registros",
+      "posicao_inicio": 24,
+      "posicao_fim": 29,
+      "formato": "num"
+    },
+
+    {
+      "nome": "vazio2",
+      "posicao_inicio": 30,
+      "posicao_fim": 35,
+      "formato": "alfa"
+    },
+
+    {
+      "nome": "vazio3",
+      "posicao_inicio": 36,
+      "posicao_fim": 240,
+      "formato": "alfa"
+    }
+  ]
+}
